@@ -8,11 +8,14 @@
     "build": "waku build",
     "start": "waku start"
   },
+  "engines": {
+    "node": "22.x"
+  },
   "dependencies": {
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "react-server-dom-webpack": "19.0.0",
-    "waku": "0.21.24"
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-server-dom-webpack": "19.1.0",
+    "waku": "github:wakujs/waku#6058a04946a51ffaf19dd092bd38c7c6ccddeec1&path:/packages/waku"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "4.0.15",
