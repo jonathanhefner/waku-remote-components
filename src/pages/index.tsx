@@ -39,8 +39,7 @@ export default async function HomePage() {
         <a target="_blank" href="https://github.com/jonathanhefner/waku-remote-components/blob/main/src/components/PassingChildren.tsx">client <code>.tsx</code></a>{" | "}
         <a target="_blank" href="https://github.com/jonathanhefner/waku-remote-components/blob/main/src/components/PassingChildren.server.tsx">server <code>.tsx</code></a>
       </p>
-      {/* <div className="demo"><PassingChildren /></div> */}
-      <div className="demo"><strong><em>TEMPORARILY DISABLED</em></strong></div>
+      <div className="demo"><PassingChildren /></div>
     </section>
 
     <section className="waterfall">

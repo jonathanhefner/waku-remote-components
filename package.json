@@ -15,7 +15,7 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-server-dom-webpack": "19.1.0",
-    "waku": "github:wakujs/waku#6058a04946a51ffaf19dd092bd38c7c6ccddeec1&path:/packages/waku"
+    "waku": "github:wakujs/waku#03e610765de66c6a0758ef029c9f400a60903599&path:/packages/waku"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "4.0.15",

@@ -18,8 +18,8 @@ importers:
         specifier: 19.1.0
         version: 19.1.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(webpack@5.98.0)
       waku:
-        specifier: github:wakujs/waku#6058a04946a51ffaf19dd092bd38c7c6ccddeec1&path:/packages/waku
-        version: https://codeload.github.com/wakujs/waku/tar.gz/6058a04946a51ffaf19dd092bd38c7c6ccddeec1#path:/packages/waku(@types/node@22.13.17)(jiti@2.4.2)(lightningcss@1.29.2)(react-dom@19.1.0(react@19.1.0))(react-server-dom-webpack@19.1.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(webpack@5.98.0))(react@19.1.0)(terser@5.39.0)
+        specifier: github:wakujs/waku#03e610765de66c6a0758ef029c9f400a60903599&path:/packages/waku
+        version: https://codeload.github.com/wakujs/waku/tar.gz/03e610765de66c6a0758ef029c9f400a60903599#path:/packages/waku(@types/node@22.13.17)(jiti@2.4.2)(lightningcss@1.29.2)(react-dom@19.1.0(react@19.1.0))(react-server-dom-webpack@19.1.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(webpack@5.98.0))(react@19.1.0)(terser@5.39.0)
     devDependencies:
       '@tailwindcss/postcss':
         specifier: 4.0.15
@@ -1067,8 +1067,8 @@ packages:
       yaml:
         optional: true
 
-  waku@https://codeload.github.com/wakujs/waku/tar.gz/6058a04946a51ffaf19dd092bd38c7c6ccddeec1#path:/packages/waku:
-    resolution: {path: /packages/waku, tarball: https://codeload.github.com/wakujs/waku/tar.gz/6058a04946a51ffaf19dd092bd38c7c6ccddeec1}
+  waku@https://codeload.github.com/wakujs/waku/tar.gz/03e610765de66c6a0758ef029c9f400a60903599#path:/packages/waku:
+    resolution: {path: /packages/waku, tarball: https://codeload.github.com/wakujs/waku/tar.gz/03e610765de66c6a0758ef029c9f400a60903599}
     version: 0.22.1
     engines: {node: ^22.7.0 || ^20.8.0}
     hasBin: true
@@ -1969,7 +1969,7 @@ snapshots:
       lightningcss: 1.29.2
       terser: 5.39.0
 
-  waku@https://codeload.github.com/wakujs/waku/tar.gz/6058a04946a51ffaf19dd092bd38c7c6ccddeec1#path:/packages/waku(@types/node@22.13.17)(jiti@2.4.2)(lightningcss@1.29.2)(react-dom@19.1.0(react@19.1.0))(react-server-dom-webpack@19.1.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(webpack@5.98.0))(react@19.1.0)(terser@5.39.0):
+  waku@https://codeload.github.com/wakujs/waku/tar.gz/03e610765de66c6a0758ef029c9f400a60903599#path:/packages/waku(@types/node@22.13.17)(jiti@2.4.2)(lightningcss@1.29.2)(react-dom@19.1.0(react@19.1.0))(react-server-dom-webpack@19.1.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(webpack@5.98.0))(react@19.1.0)(terser@5.39.0):
     dependencies:
       '@hono/node-server': 1.14.0(hono@4.7.5)
       '@swc/core': 1.11.16
